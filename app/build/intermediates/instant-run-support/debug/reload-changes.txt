@@ -1,0 +1,12 @@
+CHANGED,/home/developer/TonightYAC/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/yac/tonightyac/R$integer$override.class
+CHANGED,/home/developer/TonightYAC/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/yac/tonightyac/R$string$override.class
+CHANGED,/home/developer/TonightYAC/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/home/developer/TonightYAC/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/yac/tonightyac/R$styleable$override.class
+CHANGED,/home/developer/TonightYAC/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/yac/tonightyac/R$style$override.class
+CHANGED,/home/developer/TonightYAC/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/yac/tonightyac/R$id$override.class
+CHANGED,/home/developer/TonightYAC/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/yac/tonightyac/R$mipmap$override.class
+CHANGED,/home/developer/TonightYAC/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/Adapter/ViewPagerAdapter$override.class
+CHANGED,/home/developer/TonightYAC/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/v7/appcompat/R$id$override.class
+CHANGED,/home/developer/TonightYAC/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/yac/tonightyac/R$layout$override.class
+CHANGED,/home/developer/TonightYAC/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/yac/tonightyac/R$override.class
+CHANGED,/home/developer/TonightYAC/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/yac/tonightyac/MainActivity$override.class

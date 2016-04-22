@@ -1,0 +1,57 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+>
+
+    <ImageView
+        android:id="@+id/flag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#000"
+        android:padding="1dp" />
+
+    <TextView
+        android:layout_marginTop="50dp"
+        android:id="@+id/No_ang"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/anggota" />
+
+    <TextView
+        android:id="@+id/No"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/No_ang" />
+
+    <TextView
+        android:id="@+id/nama"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/No_ang"
+        android:text="@string/nama" />
+
+    <TextView
+        android:id="@+id/Nama"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/No"
+        android:layout_toRightOf="@+id/nama" />
+
+    <TextView
+        android:id="@+id/Umur"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/nama"
+        android:text="@string/umur" />
+
+    <TextView
+        android:id="@+id/umur"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Nama"
+        android:layout_toRightOf="@+id/Umur" />
+
+
+</LinearLayout>
